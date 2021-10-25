@@ -1,1 +1,1 @@
-echo "Hello World"
+puts "Hello World"
